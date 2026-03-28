@@ -1,4 +1,4 @@
-# 🏦 NexPay(Banking Result) — Full Stack (Express + Streamlit)
+# 🏦 NexPay(Banking Application) — Full Stack (Express + Streamlit)
 
 A full-stack banking application with a Node.js/Express/MongoDB backend and a Streamlit Python frontend.
 
